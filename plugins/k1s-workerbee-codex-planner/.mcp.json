@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "workerbee": {
+      "type": "http",
+      "url": "http://127.0.0.1:8765/mcp",
+      "note": "Local WorkerBee MCP daemon. Start it with `workerbee mcp start`; use `workerbee mcp status` to confirm the endpoint before relying on live WorkerBee tools."
+    }
+  }
+}

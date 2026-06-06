@@ -1,0 +1,40 @@
+{
+  "name": "k1s-workerbee-codex-planner",
+  "version": "0.1.0",
+  "description": "WorkerBee-aware planning guidance for Codex cloud-native development loops.",
+  "author": {
+    "name": "K1S WorkerBee"
+  },
+  "homepage": "https://github.com/the-cm-collective/k1s-workerbee",
+  "keywords": [
+    "workerbee",
+    "codex",
+    "plan-mode",
+    "k1s",
+    "containers",
+    "kubernetes",
+    "cloud-native",
+    "mcp",
+    "ingress",
+    "validation"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "K1S WorkerBee Codex Planner",
+    "shortDescription": "Plan WorkerBee-backed build, deploy, probe, and review loops",
+    "longDescription": "Use K1S WorkerBee Codex Planner to turn cloud-native work into decision-complete Codex plans with WorkerBee checkpoints, runtime validation, dashboard and ingress review, security assessment, and audience-calibrated guidance.",
+    "developerName": "K1S WorkerBee",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/the-cm-collective/k1s-workerbee",
+    "defaultPrompt": [
+      "Plan a WorkerBee-backed validation loop for this project."
+    ],
+    "brandColor": "#FBC02D"
+  }
+}

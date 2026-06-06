@@ -1,0 +1,20 @@
+{
+  "name": "k1s-workerbee",
+  "interface": {
+    "displayName": "K1S WorkerBee"
+  },
+  "plugins": [
+    {
+      "name": "k1s-workerbee-codex-planner",
+      "source": {
+        "source": "local",
+        "path": "./plugins/k1s-workerbee-codex-planner"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
