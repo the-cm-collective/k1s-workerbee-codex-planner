@@ -1,6 +1,6 @@
 {
   "name": "k1s-workerbee-codex-planner",
-  "version": "0.1.0",
+  "version": "0.1.0+codex.20260608153227",
   "description": "WorkerBee-aware planning guidance for Codex cloud-native development loops.",
   "author": {
     "name": "K1S WorkerBee"
