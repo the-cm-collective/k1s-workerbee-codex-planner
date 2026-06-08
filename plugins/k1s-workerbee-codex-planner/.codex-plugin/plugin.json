@@ -6,6 +6,7 @@
     "name": "K1S WorkerBee"
   },
   "homepage": "https://github.com/the-cm-collective/k1s-workerbee",
+  "license": "Apache-2.0",
   "keywords": [
     "workerbee",
     "codex",

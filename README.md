@@ -62,3 +62,7 @@ Plan how to bring this service up in WorkerBee and validate ingress, logs, and s
 ```
 
 The planner should inspect repo truth first, adapt detail to the user's technical background, and produce WorkerBee checkpoints that another Codex session can execute directly.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE).
